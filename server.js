@@ -36,3 +36,4 @@ app.post('/sendMessage',(reg,res) =>{
 
 
 http.listen(5000);
+console.log("running on port 5000......")
